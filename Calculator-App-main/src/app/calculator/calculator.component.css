@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap');
+div{
+	font-family: 'Poppins', sans-serif;
+}
+.con{
+	width: 100vw;
+	height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}	
+
+.container-fluid{
+	width: 50vw;
+}
+
+.col-sm-4{
+	max-width: 100%;
+}
+
+.jumbotron{
+	background-color: transparent;
+}
